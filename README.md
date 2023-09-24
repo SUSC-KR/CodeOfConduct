@@ -76,4 +76,8 @@
 ## CoC의 이해와 준수
 이 커뮤니티 행동 강령은 모든 구성원과 참여자가 안전하게 커뮤니케이션하고 협력할 수 있는 환경을 조성하기 위해 만들어졌습니다. 이를 준수함으로써 우리 커뮤니티는 더욱 발전하고 다양한 배움과 경험을 공유할 수 있을 것입니다.
 
+#### 이런 걸 참고했어요
+- [Python Korea CoC](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md)
+- [C++ Korea CoC](https://github.com/CppKorea/CodeOfConduct)
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
